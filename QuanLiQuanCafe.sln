@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37111.16 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLiQuanCafe", "QuanLiQuanCafe.csproj", "{3AF58267-3D8D-4CAC-A58C-D0BF3F7C2C02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLiQuanCafe", "QuanLiQuanCafe\QuanLiQuanCafe.csproj", "{3AF58267-3D8D-4CAC-A58C-D0BF3F7C2C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_QuanLiQuanCafe", "..\BLL_QuanLiQuanCafe\BLL_QuanLiQuanCafe.csproj", "{3F562527-F890-49FD-9A44-4FFE4FF17E47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_QuanLiQuanCafe", "BLL_QuanLiQuanCafe\BLL_QuanLiQuanCafe.csproj", "{3F562527-F890-49FD-9A44-4FFE4FF17E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_QuanLiQuanCafe", "..\DAL_QuanLiQuanCafe\DAL_QuanLiQuanCafe.csproj", "{67E97AA9-ED9A-4AD8-A97B-8530F515A8BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_QuanLiQuanCafe", "DAL_QuanLiQuanCafe\DAL_QuanLiQuanCafe.csproj", "{67E97AA9-ED9A-4AD8-A97B-8530F515A8BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO_QuanLiQuanCafe", "..\DTO_QuanLiQuanCafe\DTO_QuanLiQuanCafe.csproj", "{724A13ED-BE8E-44B0-AFF9-FF8825F8A523}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO_QuanLiQuanCafe", "DTO_QuanLiQuanCafe\DTO_QuanLiQuanCafe.csproj", "{724A13ED-BE8E-44B0-AFF9-FF8825F8A523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
